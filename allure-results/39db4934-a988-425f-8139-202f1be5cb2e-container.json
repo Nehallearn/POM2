@@ -1,0 +1,1 @@
+{"uuid":"39db4934-a988-425f-8139-202f1be5cb2e","name":"POM.LoginTest.setup","children":["4f5afc85-e48e-4924-b854-904c05c2ac88"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1610120305362,"stop":1610120315723}],"afters":[],"links":[],"start":1610120305361,"stop":1610120315723}

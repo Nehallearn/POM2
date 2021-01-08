@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75788" started-at="2021-01-08T09:17:04Z" finished-at="2021-01-08T09:18:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75788" started-at="2021-01-08T09:17:04Z" finished-at="2021-01-08T09:18:20Z">
+      <class name="POM.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:POM.LoginTest@1677d1]" name="setup" is-config="true" duration-ms="11471" started-at="2021-01-08T09:17:04Z" finished-at="2021-01-08T09:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPagetitleTest()[pri:1, instance:POM.LoginTest@1677d1]" name="loginPagetitleTest" duration-ms="62" started-at="2021-01-08T09:17:15Z" finished-at="2021-01-08T09:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPagetitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POM.LoginTest@1677d1]" name="tearDown" is-config="true" duration-ms="1314" started-at="2021-01-08T09:17:16Z" finished-at="2021-01-08T09:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:POM.LoginTest@1677d1]" name="setup" is-config="true" duration-ms="10243" started-at="2021-01-08T09:17:33Z" finished-at="2021-01-08T09:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logovalidation()[pri:2, instance:POM.LoginTest@1677d1]" name="logovalidation" duration-ms="327" started-at="2021-01-08T09:17:44Z" finished-at="2021-01-08T09:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logovalidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POM.LoginTest@1677d1]" name="tearDown" is-config="true" duration-ms="1278" started-at="2021-01-08T09:17:44Z" finished-at="2021-01-08T09:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:POM.LoginTest@1677d1]" name="setup" is-config="true" duration-ms="9986" started-at="2021-01-08T09:18:03Z" finished-at="2021-01-08T09:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:3, instance:POM.LoginTest@1677d1]" name="login" duration-ms="5302" started-at="2021-01-08T09:18:13Z" finished-at="2021-01-08T09:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POM.LoginTest@1677d1]" name="tearDown" is-config="true" duration-ms="1592" started-at="2021-01-08T09:18:18Z" finished-at="2021-01-08T09:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- POM.LoginTest -->
+      <class name="POM.Homepagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:POM.Homepagetest@48fa0f47]" name="setup" is-config="true" duration-ms="15186" started-at="2021-01-08T09:17:17Z" finished-at="2021-01-08T09:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:POM.Homepagetest@48fa0f47]" name="verifyHomePageTitle" duration-ms="45" started-at="2021-01-08T09:17:32Z" finished-at="2021-01-08T09:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POM.Homepagetest@48fa0f47]" name="tearDown" is-config="true" duration-ms="1253" started-at="2021-01-08T09:17:32Z" finished-at="2021-01-08T09:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:POM.Homepagetest@48fa0f47]" name="setup" is-config="true" duration-ms="16192" started-at="2021-01-08T09:17:45Z" finished-at="2021-01-08T09:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loggeduserValidation()[pri:2, instance:POM.Homepagetest@48fa0f47]" name="loggeduserValidation" duration-ms="167" started-at="2021-01-08T09:18:01Z" finished-at="2021-01-08T09:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggeduserValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POM.Homepagetest@48fa0f47]" name="tearDown" is-config="true" duration-ms="1235" started-at="2021-01-08T09:18:02Z" finished-at="2021-01-08T09:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- POM.Homepagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
